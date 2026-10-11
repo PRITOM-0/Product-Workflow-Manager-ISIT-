@@ -1,0 +1,424 @@
+{
+  "ecf": [
+    {
+      "id": "bWuGWIUr00k",
+      "ecfId": "ECF-2026-0001",
+      "ecf": {
+        "estimatedDeliveryDate": "2026-09-16T11:03:00.000Z",
+        "company": "AHL",
+        "location": "KLOTH",
+        "amount": 55,
+        "equipmentDetails": "dgfhrthjrhnjrtynjryjhntrhj",
+        "quantity": 4,
+        "itPerson": "USR-002"
+      },
+      "workflow": [
+        {
+          "serial": 1,
+          "stepName": "ECF Raise",
+          "stepStatus": "completed",
+          "startDateTime": "2026-09-16T11:03:36.237Z",
+          "endDateTime": "2026-09-16T11:03:36.237Z",
+          "notes": null,
+          "itPerson": "USR-002"
+        },
+        {
+          "serial": 2,
+          "stepName": "Approve",
+          "stepStatus": "completed",
+          "startDateTime": "2026-09-16T11:05:21.903Z",
+          "endDateTime": "2026-09-16T11:05:21.903Z",
+          "notes": null,
+          "itPerson": "USR-002"
+        },
+        {
+          "serial": 3,
+          "stepName": "CS Approve",
+          "stepStatus": "completed",
+          "startDateTime": "2026-09-16T11:05:21.903Z",
+          "endDateTime": "2026-09-16T11:05:37.495Z",
+          "notes": null,
+          "itPerson": "USR-002"
+        },
+        {
+          "serial": 4,
+          "stepName": "Work Order",
+          "stepStatus": "completed",
+          "startDateTime": "2026-09-16T11:05:37.495Z",
+          "endDateTime": "2026-09-16T11:05:45.095Z",
+          "notes": null,
+          "itPerson": "USR-002"
+        },
+        {
+          "serial": 5,
+          "stepName": "Product Inhouse",
+          "stepStatus": "completed",
+          "startDateTime": "2026-09-16T11:05:45.095Z",
+          "endDateTime": "2026-09-16T11:05:53.591Z",
+          "notes": null,
+          "itPerson": "USR-002"
+        },
+        {
+          "serial": 6,
+          "stepName": "Asset Code Request",
+          "stepStatus": null,
+          "startDateTime": "2026-09-16T11:05:53.591Z",
+          "endDateTime": null,
+          "notes": null,
+          "itPerson": null
+        },
+        {
+          "serial": 7,
+          "stepName": "Document Update",
+          "stepStatus": null,
+          "startDateTime": null,
+          "endDateTime": null,
+          "notes": null,
+          "itPerson": null
+        },
+        {
+          "serial": 8,
+          "stepName": "Product Delivery",
+          "stepStatus": null,
+          "startDateTime": null,
+          "endDateTime": null,
+          "notes": null,
+          "itPerson": null
+        },
+        {
+          "serial": 9,
+          "stepName": "User Acknowledgement",
+          "stepStatus": null,
+          "startDateTime": null,
+          "endDateTime": null,
+          "notes": null,
+          "itPerson": null
+        }
+      ],
+      "createdBy": "USR-002",
+      "createdAt": "2026-09-16T11:03:36.237Z",
+      "updatedAt": "2026-09-16T11:06:17.904Z",
+      "status": "in-progress"
+    },
+    {
+      "id": "ZpLPZNvCMlw",
+      "ecfId": "ECF-2026-0002",
+      "ecf": {
+        "estimatedDeliveryDate": "2026-09-16T11:07:00.000Z",
+        "company": "KHL",
+        "location": "STS",
+        "amount": 456456,
+        "equipmentDetails": "rhfrthrtyhrtyhtyhtyhtyh",
+        "quantity": 3,
+        "itPerson": "USR-002"
+      },
+      "workflow": [
+        {
+          "serial": 1,
+          "stepName": "ECF Raise",
+          "stepStatus": "completed",
+          "startDateTime": "2026-09-16T11:07:43.528Z",
+          "endDateTime": "2026-09-16T11:07:43.528Z",
+          "notes": null,
+          "itPerson": "USR-002"
+        },
+        {
+          "serial": 2,
+          "stepName": "Approve",
+          "stepStatus": "completed",
+          "startDateTime": "2026-09-16T11:08:08.415Z",
+          "endDateTime": "2026-09-16T11:08:08.415Z",
+          "notes": null,
+          "itPerson": "vcmZ-1eXSxI"
+        },
+        {
+          "serial": 3,
+          "stepName": "CS Approve",
+          "stepStatus": "completed",
+          "startDateTime": "2026-09-16T11:08:08.415Z",
+          "endDateTime": "2026-09-16T11:08:13.455Z",
+          "notes": null,
+          "itPerson": "vcmZ-1eXSxI"
+        },
+        {
+          "serial": 4,
+          "stepName": "Work Order",
+          "stepStatus": "completed",
+          "startDateTime": "2026-09-16T11:08:13.455Z",
+          "endDateTime": "2026-09-16T11:08:30.567Z",
+          "notes": null,
+          "itPerson": "vcmZ-1eXSxI"
+        },
+        {
+          "serial": 5,
+          "stepName": "Product Inhouse",
+          "stepStatus": "completed",
+          "startDateTime": "2026-09-16T11:08:30.567Z",
+          "endDateTime": "2026-09-16T11:08:51.807Z",
+          "notes": "5ty5ty5ty5ty5ty5ty5ty5ty5ty5ty5ty5ty5ty5ty5ty5ty5ty5ty5ty",
+          "itPerson": "vcmZ-1eXSxI"
+        },
+        {
+          "serial": 6,
+          "stepName": "Asset Code Request",
+          "stepStatus": "completed",
+          "startDateTime": "2026-09-16T11:08:51.807Z",
+          "endDateTime": "2026-09-16T11:09:08.743Z",
+          "notes": null,
+          "itPerson": "vcmZ-1eXSxI"
+        },
+        {
+          "serial": 7,
+          "stepName": "Document Update",
+          "stepStatus": "completed",
+          "startDateTime": "2026-09-16T11:09:08.743Z",
+          "endDateTime": "2026-09-16T11:09:14.719Z",
+          "notes": null,
+          "itPerson": "vcmZ-1eXSxI"
+        },
+        {
+          "serial": 8,
+          "stepName": "Product Delivery",
+          "stepStatus": "completed",
+          "startDateTime": "2026-09-16T11:09:14.719Z",
+          "endDateTime": "2026-09-16T11:09:19.631Z",
+          "notes": null,
+          "itPerson": "vcmZ-1eXSxI"
+        },
+        {
+          "serial": 9,
+          "stepName": "User Acknowledgement",
+          "stepStatus": "completed",
+          "startDateTime": "2026-09-16T11:09:19.631Z",
+          "endDateTime": "2026-09-16T11:09:28.959Z",
+          "notes": null,
+          "itPerson": "vcmZ-1eXSxI"
+        }
+      ],
+      "createdBy": "USR-002",
+      "createdAt": "2026-09-16T11:07:43.528Z",
+      "updatedAt": "2026-09-16T11:09:28.959Z",
+      "status": "completed"
+    },
+    {
+      "id": "WoHZ7YKBdO4",
+      "ecfId": "ECF-2026-0003",
+      "ecf": {
+        "estimatedDeliveryDate": "2026-09-16T11:48:00.000Z",
+        "company": "ITL",
+        "location": "KLOTH",
+        "amount": 45645,
+        "equipmentDetails": "fghthjtjtyj",
+        "quantity": 6,
+        "itPerson": "USR-002"
+      },
+      "workflow": [
+        {
+          "serial": 1,
+          "stepName": "ECF Raise",
+          "stepStatus": "completed",
+          "startDateTime": "2026-09-16T11:48:18.853Z",
+          "endDateTime": "2026-09-16T11:48:18.853Z",
+          "notes": null,
+          "itPerson": "USR-002"
+        },
+        {
+          "serial": 2,
+          "stepName": "Approve",
+          "stepStatus": "completed",
+          "startDateTime": "2026-09-16T11:49:26.079Z",
+          "endDateTime": "2026-09-16T11:49:26.079Z",
+          "notes": "fff",
+          "itPerson": "USR-002"
+        },
+        {
+          "serial": 3,
+          "stepName": "CS Approve",
+          "stepStatus": "completed",
+          "startDateTime": "2026-09-16T11:49:26.079Z",
+          "endDateTime": "2026-09-16T11:56:18.359Z",
+          "notes": null,
+          "itPerson": "USR-002"
+        },
+        {
+          "serial": 4,
+          "stepName": "Work Order",
+          "stepStatus": "completed",
+          "startDateTime": "2026-09-16T11:56:18.359Z",
+          "endDateTime": "2026-10-11T03:19:27.180Z",
+          "notes": "q",
+          "itPerson": "vcmZ-1eXSxI"
+        },
+        {
+          "serial": 5,
+          "stepName": "Product Inhouse",
+          "stepStatus": null,
+          "startDateTime": "2026-10-11T03:19:27.180Z",
+          "endDateTime": null,
+          "notes": null,
+          "itPerson": null
+        },
+        {
+          "serial": 6,
+          "stepName": "Asset Code Request",
+          "stepStatus": null,
+          "startDateTime": null,
+          "endDateTime": null,
+          "notes": null,
+          "itPerson": null
+        },
+        {
+          "serial": 7,
+          "stepName": "Document Update",
+          "stepStatus": null,
+          "startDateTime": null,
+          "endDateTime": null,
+          "notes": null,
+          "itPerson": null
+        },
+        {
+          "serial": 8,
+          "stepName": "Product Delivery",
+          "stepStatus": null,
+          "startDateTime": null,
+          "endDateTime": null,
+          "notes": null,
+          "itPerson": null
+        },
+        {
+          "serial": 9,
+          "stepName": "User Acknowledgement",
+          "stepStatus": null,
+          "startDateTime": null,
+          "endDateTime": null,
+          "notes": null,
+          "itPerson": null
+        }
+      ],
+      "createdBy": "USR-002",
+      "createdAt": "2026-09-16T11:48:18.853Z",
+      "updatedAt": "2026-10-11T03:19:27.180Z",
+      "status": "in-progress"
+    }
+  ],
+  "companyinfo": {
+    "company": [
+      "SPL",
+      "ETC",
+      "IPL",
+      "STS",
+      "ITL",
+      "PCL",
+      "SPEED",
+      "AHL",
+      "KHL",
+      "RVL",
+      "Others"
+    ],
+    "Location": [
+      "CORP",
+      "SRU",
+      "SRM",
+      "JRB",
+      "JRG",
+      "JRD",
+      "JRU-3",
+      "Kitchen",
+      "CW-Banani",
+      "CW-Casablanca",
+      "CW-Gemcon",
+      "CW-RobiHq",
+      "CW-RAK",
+      "STS",
+      "OHS",
+      "KLOTH",
+      "NormLi",
+      "FAC",
+      "Gulshan-01",
+      "Gulshan-02"
+    ],
+    "department": [
+      "SRD",
+      "Administration",
+      "Faculty",
+      "Student Affairs and Events",
+      "IT",
+      "Security",
+      "Two Router Connection",
+      "APM",
+      "HOS",
+      "Academic Affairs",
+      "APM Office",
+      "HR",
+      "Payroll",
+      "PCL",
+      "Finance",
+      "PCM",
+      "Director Office",
+      "ITL (KLOTH STUDIO)",
+      "SP",
+      "CP Office",
+      "Special Project"
+    ],
+    "equipment": [
+      "CPU",
+      "Monitor",
+      "UPS",
+      "Scanner",
+      "Laptop",
+      "Webcam",
+      "Headphone",
+      "Router",
+      "Switch",
+      "Printer",
+      "Projector",
+      "Projection Screen",
+      "Speaker",
+      "Access Control",
+      "CCTV Camera",
+      "DVR",
+      "Network Rack",
+      "Photocopier",
+      "Smoke Detector Controller",
+      "NVR",
+      "POS Printer",
+      "Barcode Printer",
+      "TV",
+      "Keyboard & Mouse",
+      "Wireless Keyboard",
+      "Wireless Mouse",
+      "HDMI Cable",
+      "Microphone",
+      "Type-C Stick",
+      "Smoke Detector",
+      "Call Point",
+      "Fire Bell"
+    ],
+    "steps": [
+      "ECF Raise",
+      "Approve",
+      "CS Approve",
+      "Work Order",
+      "Product Inhouse",
+      "Asset Code Request",
+      "Document Update",
+      "Product Delivery",
+      "User Acknowledgement"
+    ]
+  },
+  "users": [
+    {
+      "id": "USR-002",
+      "username": "admin",
+      "role": "admin",
+      "password": "admin"
+    },
+    {
+      "id": "vcmZ-1eXSxI",
+      "username": "IT",
+      "password": "I123",
+      "role": "user"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
